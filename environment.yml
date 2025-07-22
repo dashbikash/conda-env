@@ -1,4 +1,4 @@
-name: binder
+name: myenv
 channels:
   - conda-forge
 dependencies:
@@ -15,3 +15,5 @@ dependencies:
   - feature_engine
   - scikit-learn
   - flaml
+  - autoviz
+  - pandas-profiling
