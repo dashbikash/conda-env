@@ -2,16 +2,7 @@ name: binder
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.10
   - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
-  - dask
-  - feature_engine
-  - scikit-learn
-  - flaml
+  - dataprep
