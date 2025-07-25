@@ -17,3 +17,4 @@ dependencies:
   - flaml
   - autoviz
   - pandas-profiling
+  - ucimlrepo
